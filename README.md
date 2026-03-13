@@ -94,7 +94,7 @@ docker build .
 
 o
 
-docker build -t backend-spring-cursos ./backend
+docker build -t backend-spring-cursos .
 ```
 
 ---
